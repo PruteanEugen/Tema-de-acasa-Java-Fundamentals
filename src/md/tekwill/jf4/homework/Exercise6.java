@@ -11,6 +11,11 @@ public class Exercise6 {
      */
 
     public static void main(String[] args) {
-
+      double num1 = 25.5;
+      double num2 = 3.5;
+      double num3 = 40.5;
+      double num4 = 4.5;
+      double resultat = ((num1*num2-num2*num2) / (num3-num4));
+        System.out.println("Rezultatul operatiei este :" + resultat);
     }
 }

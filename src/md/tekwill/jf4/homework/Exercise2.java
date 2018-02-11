@@ -11,6 +11,9 @@ public class Exercise2 {
     */
 
     public static void main(String[] args) {
-        // System.out.println(?);
+        int num1 = 74;
+        int num2 = 36;
+        int suma = num1+num2;
+         System.out.println("Rezultatul sumei este :" + suma);
     }
 }
